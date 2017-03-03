@@ -1,3 +1,5 @@
+# Note: This library is now being maintained at https://github.com/jhasse/ears
+
 # ears [![Build Status](https://travis-ci.org/jeremyletang/ears.png?branch=master)](https://travis-ci.org/jeremyletang/ears)
 
 
